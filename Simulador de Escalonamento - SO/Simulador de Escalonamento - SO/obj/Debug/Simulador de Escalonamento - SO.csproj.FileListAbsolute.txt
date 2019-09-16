@@ -1,0 +1,15 @@
+C:\Users\ROBERT\Source\Repos\StudyRepos\Simulador de Escalonamento - SO\Simulador de Escalonamento - SO\bin\Debug\Simulador de Escalonamento - SO.exe.config
+C:\Users\ROBERT\Source\Repos\StudyRepos\Simulador de Escalonamento - SO\Simulador de Escalonamento - SO\bin\Debug\Simulador de Escalonamento - SO.exe
+C:\Users\ROBERT\Source\Repos\StudyRepos\Simulador de Escalonamento - SO\Simulador de Escalonamento - SO\bin\Debug\Simulador de Escalonamento - SO.pdb
+C:\Users\ROBERT\Source\Repos\StudyRepos\Simulador de Escalonamento - SO\Simulador de Escalonamento - SO\obj\Debug\Simulador de Escalonamento - SO.csprojResolveAssemblyReference.cache
+C:\Users\ROBERT\Source\Repos\StudyRepos\Simulador de Escalonamento - SO\Simulador de Escalonamento - SO\obj\Debug\MainWindow.g.cs
+C:\Users\ROBERT\Source\Repos\StudyRepos\Simulador de Escalonamento - SO\Simulador de Escalonamento - SO\obj\Debug\App.g.cs
+C:\Users\ROBERT\Source\Repos\StudyRepos\Simulador de Escalonamento - SO\Simulador de Escalonamento - SO\obj\Debug\Simulador de Escalonamento - SO_MarkupCompile.cache
+C:\Users\ROBERT\Source\Repos\StudyRepos\Simulador de Escalonamento - SO\Simulador de Escalonamento - SO\obj\Debug\Simulador de Escalonamento - SO_MarkupCompile.lref
+C:\Users\ROBERT\Source\Repos\StudyRepos\Simulador de Escalonamento - SO\Simulador de Escalonamento - SO\obj\Debug\MainWindow.baml
+C:\Users\ROBERT\Source\Repos\StudyRepos\Simulador de Escalonamento - SO\Simulador de Escalonamento - SO\obj\Debug\Simulador de Escalonamento - SO.g.resources
+C:\Users\ROBERT\Source\Repos\StudyRepos\Simulador de Escalonamento - SO\Simulador de Escalonamento - SO\obj\Debug\Simulador_de_Escalonamento___SO.Properties.Resources.resources
+C:\Users\ROBERT\Source\Repos\StudyRepos\Simulador de Escalonamento - SO\Simulador de Escalonamento - SO\obj\Debug\Simulador de Escalonamento - SO.csproj.GenerateResource.Cache
+C:\Users\ROBERT\Source\Repos\StudyRepos\Simulador de Escalonamento - SO\Simulador de Escalonamento - SO\obj\Debug\Simulador de Escalonamento - SO.csproj.CoreCompileInputs.cache
+C:\Users\ROBERT\Source\Repos\StudyRepos\Simulador de Escalonamento - SO\Simulador de Escalonamento - SO\obj\Debug\Simulador de Escalonamento - SO.exe
+C:\Users\ROBERT\Source\Repos\StudyRepos\Simulador de Escalonamento - SO\Simulador de Escalonamento - SO\obj\Debug\Simulador de Escalonamento - SO.pdb
